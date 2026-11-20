@@ -1,39 +1,11 @@
 # Waste Management Detection
 
-An AI-based waste classification project using Python, machine learning, and data analysis techniques.
+This repository outlines a planned waste-classification project. Its current contents are a dependency list, a licence and directory notes describing where future work would go.
 
-## Project Overview
+| Area | Current contents |
+| --- | --- |
+| [Data](data/) and [images](images/) | Directory notes. No sample or labelled dataset is included. |
+| [Notebooks](notebooks/) and [source](src/) | Placeholders for exploration, preprocessing and classification code. |
+| [Models](models/) and [tests](tests/) | Placeholders for trained models and evaluation. |
 
-This project focuses on detecting and classifying waste categories to support smarter recycling and waste management. The aim is to build a clean, documented, and reproducible machine learning project.
-
-## Objectives
-
-- Collect or prepare waste-related data
-- Perform data cleaning and preprocessing
-- Train a machine learning model for classification
-- Evaluate model performance
-- Present results using charts and screenshots
-
-## Technologies Used
-
-- Python
-- pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- scikit-learn
-- Jupyter Notebook
-
-## Project Structure
-
-```text
-waste-management-detection/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── notebooks/
-├── src/
-├── data/
-├── images/
-├── models/
-└── tests/
+The [requirements file](requirements.txt) lists proposed Python dependencies. Dataset selection, model training and evaluation are planned. There is currently no runnable classifier, benchmark result or deployment.
